@@ -10,7 +10,7 @@ O processador MyRISC foi projetado para ser simples e funcional, implementando u
 
 Para compilar e simular o projeto, siga estas etapas:
 
-1. Acesse o site [adaPlayground](https://www.adaplayground.com/).
+1. Acesse o site [EDA Playground](https://edaplayground.com/).
 2. Baixe os arquivos do processador monociclo MyRISC disponíveis neste repositório.
 3. No EDA Playground, faça o upload dos arquivos `.vhdl` do processador.
 4. Configure os sinais de entrada e saída para simulação.
