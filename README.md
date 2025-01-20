@@ -58,7 +58,7 @@ O processo é simples:
 
 ## Simulação
 
-A simulação abaixo foi feito com o arquivo "exemploBNE_sala.out" na plataforma EDA Playground e ele representa o teste do BNE no processador Monociclo - MyRISC
+A simulação abaixo foi feito com o arquivo "exemploBNE_sala.out" na plataforma EDA Playground e ele representa o WaveForm do teste do BNE no processador Monociclo - MyRISC
 ![image](https://github.com/user-attachments/assets/95eba7b8-c138-4791-8441-2dc9249ce2ac)
 
 ## Contribuições
