@@ -4,7 +4,7 @@ Este é o repositório do projeto de desenvolvimento de um processador monociclo
 
 ## Sobre o Projeto
 
-O processador MyRISC foi projetado para ser simples e funcional, implementando um conjunto reduzido de instruções em arquitetura RISC. A implementação foi realizada em **VHDL**, e o projeto pode ser facilmente compilado e simulado na plataforma **adaPlayground**.
+O processador MyRISC foi projetado para ser simples e funcional, implementando um conjunto reduzido de instruções em arquitetura RISC. A implementação foi realizada em **VHDL**, e o projeto pode ser facilmente compilado e simulado na plataforma **EDA Playground**.
 
 ## Como Executar
 
@@ -12,7 +12,7 @@ Para compilar e simular o projeto, siga estas etapas:
 
 1. Acesse o site [adaPlayground](https://www.adaplayground.com/).
 2. Baixe os arquivos do processador monociclo MyRISC disponíveis neste repositório.
-3. No adaPlayground, faça o upload dos arquivos `.vhdl` do processador.
+3. No EDA Playground, faça o upload dos arquivos `.vhdl` do processador.
 4. Configure os sinais de entrada e saída para simulação.
 5. Execute a simulação e observe os resultados das ondas **EPWave**.
 
@@ -49,9 +49,17 @@ Esses exemplos são usados para validar as instruções implementadas no process
 ## Simplicidade do Tutorial
 
 O processo é simples:
-- Faça o upload dos arquivos em um compilador VHDL como o adaPlayground.
+- Faça o upload dos arquivos em um compilador VHDL como o EDA Playground.
 - Configure as entradas e selecione os exemplos para testes.
 - Rode a simulação e analise os resultados.
+
+## Datapath do processador MyRISC - Monocliclo
+![image](https://github.com/user-attachments/assets/5ff47dbb-240a-4e10-bc2b-239ded3032a4)
+
+## Simulação
+
+A simulação abaixo foi feito com o arquivo "exemploBNE_sala.out" na plataforma EDA Playground e ele representa o teste do BNE no processador Monociclo - MyRISC
+![image](https://github.com/user-attachments/assets/95eba7b8-c138-4791-8441-2dc9249ce2ac)
 
 ## Contribuições
 
