@@ -65,8 +65,4 @@ A simulação abaixo foi feito com o arquivo "exemploBNE_sala.out" na plataforma
 
 O projeto foi desenvolvido com o suporte do professor Max Santana Rolemberg Farias e em colaboração com os alunos da disciplina. Sugestões de melhorias e extensões são bem-vindas!
 
-## Licença
-
-Este projeto está sob a licença MIT.
-
 Desenvolvido com dedicação pela turma de OAC 2 da UNIVASF.
